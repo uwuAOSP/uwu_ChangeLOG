@@ -44,7 +44,15 @@
   <figcaption>PUI 在控制中心和系统页面中的实际效果。</figcaption>
 </figure>
 
-连接 USB-C、HDMI 或受支持的虚拟显示器时，[外接屏桌面](https://uwuaosp.uwuniverse.org/docs/ExternalDesktop/)可调用 Android 桌面模式，让应用在外接屏上以窗口运行。本机屏幕是否遮盖、scrcpy 虚拟屏是否触发桌面模式，都可以单独设置。此外，[状态栏歌词](https://uwuaosp.uwuniverse.org/docs/StatusBarLyric/)、[智能建议](https://uwuaosp.uwuniverse.org/docs/SmartSuggestions/)和[单独控制应用音量](https://uwuaosp.uwuniverse.org/docs/PerAppVolume/)也回到了日常体验中。
+连接 USB-C、HDMI 或受支持的虚拟显示器时，[外接屏桌面](https://uwuaosp.uwuniverse.org/docs/ExternalDesktop/)可调用 Android 桌面模式，让应用在外接屏上以窗口运行。本机屏幕是否遮盖、scrcpy 虚拟屏是否触发桌面模式，都可以单独设置。
+
+<figure class="uwu-release-media">
+  <img src="assets/external-desktop-settings.png" alt="外接屏幕设置页，可启用桌面模式、遮盖本机屏幕并允许 scrcpy 虚拟屏" loading="lazy" />
+  <img src="assets/external-display-connected.jpg" alt="连接虚拟外接屏后显示的连接提示与桌面画面" loading="lazy" />
+  <figcaption>外接屏桌面设置，以及连接虚拟显示器后的系统提示。</figcaption>
+</figure>
+
+此外，[状态栏歌词](https://uwuaosp.uwuniverse.org/docs/StatusBarLyric/)、[智能建议](https://uwuaosp.uwuniverse.org/docs/SmartSuggestions/)和[单独控制应用音量](https://uwuaosp.uwuniverse.org/docs/PerAppVolume/)也回到了日常体验中。
 
 ## 构建与维护
 
