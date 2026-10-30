@@ -1,4 +1,6 @@
-uwuAOSP 17.0.181 Changelog
+# uwuAOSP 17.0.181
+
+2026-10-31
 
 - Clipboard interception now temporarily preserves pending writes, so you no longer need to retry clipboard write requests after granting permission.
 - Significantly improved animations in the split Quick Settings (QS) layout.
